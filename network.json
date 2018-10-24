@@ -24,6 +24,16 @@
             ],
             "source": "clean.R",
             "target": "data.csv"
+        },
+        {
+            "ports": [
+                {
+                    "input": "df",
+                    "type": "csv"
+                }
+            ],
+            "source": "data.csv",
+            "target": "analyze.R"
         }
     ],
     "nodes": [
@@ -44,6 +54,6 @@
             "name": "plot.png"
         }
     ],
-    "updated_at": "2018-10-24 21:22:06",
+    "updated_at": "2018-10-24 21:22:47",
     "url": "https://github.com/dsclass-prod/test12"
 }
