@@ -54,10 +54,6 @@
             "name": "data.csv"
         },
         {
-            "desc": "",
-            "name": "analyze.R"
-        },
-        {
             "name": "plot.png"
         },
         {
@@ -65,8 +61,14 @@
             "desc": "",
             "name": "clean.R",
             "task_status": "proposed"
+        },
+        {
+            "assigned_to": "yatish2",
+            "desc": "",
+            "name": "analyze.R",
+            "task_status": "proposed"
         }
     ],
-    "updated_at": "2018-10-24 21:23:41",
+    "updated_at": "2018-10-24 21:23:49",
     "url": "https://github.com/dsclass-prod/test12"
 }
