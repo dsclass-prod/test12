@@ -51,9 +51,6 @@
             "name": "satisfactionSurvey.csv"
         },
         {
-            "name": "clean.R"
-        },
-        {
             "name": "data.csv"
         },
         {
@@ -62,8 +59,14 @@
         },
         {
             "name": "plot.png"
+        },
+        {
+            "assigned_to": "yatish",
+            "desc": "",
+            "name": "clean.R",
+            "task_status": "proposed"
         }
     ],
-    "updated_at": "2018-10-24 21:23:02",
+    "updated_at": "2018-10-24 21:23:41",
     "url": "https://github.com/dsclass-prod/test12"
 }
